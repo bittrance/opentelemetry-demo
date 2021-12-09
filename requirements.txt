@@ -1,0 +1,5 @@
+bottle
+opentelemetry-api
+opentelemetry-exporter-otlp
+opentelemetry-sdk
+uwsgi
